@@ -81,7 +81,7 @@ footer{
     bottom: 2%;
     z-index: 10;
 }
-@media (max-width: 425px) {
+@media (max-width: 650px) {
      header{
         margin: 20px 10px;
     }
