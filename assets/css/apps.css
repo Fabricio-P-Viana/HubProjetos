@@ -54,7 +54,7 @@
 .botaoMeioBaixoDireita {
     grid-area: 5 / 6 / 6 / 7;  
 } 
-@media (max-width: 425px) {
+@media (max-width: 650px) {
     .containerApps{
         grid-template-columns: repeat(6, 50px);
         grid-template-rows: repeat(6, 50px);
